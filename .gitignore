@@ -1,0 +1,9 @@
+.DS_Store
+*.ipynb
+*.jpg
+*.mp3
+*.csv
+data
+therealconfig.ini
+examples
+utils/match_tweets_with_eng.py
